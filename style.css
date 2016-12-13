@@ -1,8 +1,8 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://data.whicdn.com/images/128484051/large.jpg");
       background-size: cover;
-      color: white;
+      color: black;
     }
     .nav {
       color: white;
